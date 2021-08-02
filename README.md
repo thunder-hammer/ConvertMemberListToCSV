@@ -9,3 +9,7 @@ Running this file requires usage of the command line. It also requires that a fe
 ### For users that are on other operating systems
 
 I got this working using Python 3.8, selenium, and the firefox gecko driver on Linux Mint 20.1. I don't see why this wouldn't work on everything Python 3.6 and later 3.x versions though. Go get Python, install selenium (probably with pip, I honestly don't remember) and get firefox and the gecko selenium driver for it (probably with a distro package manager). then just run `python3 ChurchWebsite.py` and it should work.
+
+### Other notes
+
+The license to this project is included in the python script.
