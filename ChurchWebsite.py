@@ -57,7 +57,7 @@ driver = webdriver.Firefox()
 driver.get("https://id.churchofjesuschrist.org/")
 
 
-input("Please enter credentials into the web page and press enter")
+input("Please enter credentials into the web page, click sign on, and press enter")
 
 def get_table_from_website(website):
     '''broken into a function to allow for grabbing individuals too. it should work for both'''
