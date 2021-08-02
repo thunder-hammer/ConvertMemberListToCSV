@@ -39,9 +39,9 @@ This application will overwrite any file named ward_list.csv in the directory wh
 
 Addresses are assumed to be in a pretty narrow format. for example:
 
-200 E 200 N
+`200 E 200 N
 Apt 12
-city, state zip
+city, state zip`
 
 When entering these addresses on the website I try to ensure the address is put in with spaces after the street numbers, before the n,e,s,w directions. The apartment number is on line 2 of the address with apt preceeding it. Some variations on the format are accounted for but it's safest to just try to make sure they look like this.
 
